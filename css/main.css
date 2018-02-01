@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2em;
+    color: gray;
+}
+
+h1, p {
+    font-family: 'Helvetica', sans-serif;
+}
+
+body {
+    background-color: lightsteelblue;
+}
